@@ -1,0 +1,205 @@
+EDUBRIDGE KNOWLEDGE BASE
+
+ABOUT EDUBRIDGE
+
+EduBridge is a lifelong learning platform designed to help students learn modern technologies through structured courses, lessons, progress tracking, learning analytics and AI-powered doubt solving.
+
+COURSES
+
+EduBridge provides courses in modern technology areas including:
+
+React.js
+Node.js
+Express.js
+MongoDB
+Python
+Machine Learning
+Generative AI
+Retrieval Augmented Generation
+AWS
+Docker
+Kubernetes
+
+REACT.JS
+
+React.js is a JavaScript library used for building user interfaces.
+
+Important React concepts include:
+
+Components
+JSX
+Props
+State
+Hooks
+useState
+useEffect
+React Router
+Conditional Rendering
+Lists
+Forms
+
+Components are reusable building blocks of a React application.
+
+Props are used to pass data from a parent component to a child component.
+
+State stores data that can change during the lifetime of a component.
+
+useState is a React Hook used to manage component state.
+
+useEffect is commonly used for side effects such as API requests.
+
+NODE.JS
+
+Node.js is a JavaScript runtime that allows JavaScript to run outside the browser.
+
+Node.js is commonly used for backend development and REST APIs.
+
+Important concepts include:
+
+Modules
+npm
+Express.js
+Middleware
+REST APIs
+Routing
+Authentication
+Environment Variables
+
+EXPRESS.JS
+
+Express.js is a Node.js web framework used to build backend applications and APIs.
+
+Important Express concepts include:
+
+Routes
+Middleware
+Controllers
+Request
+Response
+Error Handling
+
+MONGODB
+
+MongoDB is a NoSQL document database.
+
+MongoDB stores data in collections containing documents.
+
+Important MongoDB concepts include:
+
+Database
+Collection
+Document
+ObjectId
+CRUD operations
+Queries
+Indexes
+Mongoose
+
+PYTHON
+
+Python is a high-level programming language widely used for:
+
+Web development
+Data science
+Machine learning
+Automation
+Artificial intelligence
+
+MACHINE LEARNING
+
+Machine Learning is a branch of artificial intelligence where systems learn patterns from data.
+
+Common machine learning types include:
+
+Supervised Learning
+Unsupervised Learning
+Reinforcement Learning
+
+GENERATIVE AI
+
+Generative AI refers to artificial intelligence systems that can generate new content.
+
+Examples include:
+
+Text
+Images
+Code
+Audio
+
+Large Language Models are commonly used for text generation and conversational AI.
+
+RAG
+
+Retrieval Augmented Generation, or RAG, combines information retrieval with a language model.
+
+A typical RAG pipeline contains:
+
+1. User question
+2. Document retrieval
+3. Relevant context
+4. Prompt construction
+5. Language model generation
+6. Final answer
+
+RAG helps an AI system answer questions using information from a specific knowledge base.
+
+AWS
+
+Amazon Web Services is a cloud computing platform.
+
+Common AWS services include:
+
+EC2
+S3
+Lambda
+RDS
+CloudFront
+IAM
+
+DOCKER
+
+Docker is a platform used to package applications and their dependencies into containers.
+
+Important Docker concepts include:
+
+Images
+Containers
+Dockerfile
+Docker Compose
+Container Registry
+
+KUBERNETES
+
+Kubernetes is a container orchestration platform.
+
+It can manage:
+
+Containers
+Pods
+Deployments
+Services
+Scaling
+Load balancing
+
+EDUBRIDGE LEARNING
+
+Students can:
+
+Browse courses
+Search courses
+Enroll in courses
+Study lessons
+Track lesson completion
+Track learning time
+View learning activity
+Maintain learning streaks
+Continue previously started courses
+Ask AI questions
+
+AI DOUBT SOLVING
+
+EduBridge's AI assistant helps students understand technical concepts.
+
+Students can ask questions about topics covered by the EduBridge knowledge base.
+
+The assistant should provide clear, educational answers and explain difficult concepts in a beginner-friendly way.
